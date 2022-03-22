@@ -4,7 +4,7 @@ This repository will host my code/notebooks for my responses to a variety of Kag
 
 ## Tasks
 
-1. [Disaster Tweets: Determining whether a tweet is about a real disaster](https://github.com/robpasternak/PasternakKaggle/tree/main/NLP/001_DisasterTweets)
+1. [Disaster Tweets](https://github.com/robpasternak/PasternakKaggle/tree/main/NLP/001_DisasterTweets) (NLP)
 
 ## Models Used
 - _K_-nearest neighbors
